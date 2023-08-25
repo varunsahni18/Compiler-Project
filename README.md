@@ -1,2 +1,2 @@
 # Compiler-Project
-Created a new Compiler from Scratch
+Implemented a highly efficient compiler from scratch, covering lexical analysis, syntax analysis, semantic analysis phases.
