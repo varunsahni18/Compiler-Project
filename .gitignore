@@ -1,0 +1,13 @@
+# Compiled binaries
+a.out
+*.o
+exec
+driver
+
+# Temp files
+tempCodeRunnerFile.*
+
+# IDE
+.vscode/
+.idea/
+*.swp

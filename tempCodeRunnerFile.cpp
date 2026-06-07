@@ -1,1 +1,0 @@
-gcc driver.c parser.c lexer.c stack.c tree.c
